@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: jpa-shopping-mall
+
+  profiles:
+    default: local
